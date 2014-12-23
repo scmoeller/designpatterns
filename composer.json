@@ -1,0 +1,11 @@
+{
+    "name": "vendor/software-pattern",
+    "description": "Description of project software-pattern.",
+    "authors": [
+        {
+            "name": "Stefan C. Möller",
+            "email": "stefan.moeller.wi@gmx.de"
+        }
+    ],
+    "require": {}
+}
